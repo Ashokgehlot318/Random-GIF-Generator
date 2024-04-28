@@ -1,6 +1,6 @@
 # Random-GIF-Generator
 
-### deploy link - https://randoms-gif-generator.netlify.app/
+### Project link - https://randoms-gif-generator.netlify.app/
 
 
 ## Installation
